@@ -5,7 +5,7 @@ import os
 
 import pandas as pd
 from IPython.display import Markdown, display
-from lesson_2_lib import (
+from datalib import (
     # Helpers
     OpenAIModels,
     display_responses,
